@@ -1,5 +1,5 @@
 es:
-  hello: "Hola!"
+  hello: "Hola! %{email}"
   flash:
     index: "bienvenido!"
   article:
