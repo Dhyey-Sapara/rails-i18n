@@ -1,0 +1,11 @@
+es:
+  hello: "Hola!"
+  flash:
+    index: "bienvenido!"
+  article:
+    articles: 'Artículos'
+    title: 'título'
+    description: 'descripción'
+    show: 'Mostrar este artículo'
+  session:
+    logout: 'cerrar sesión'
