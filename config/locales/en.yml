@@ -30,4 +30,13 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  hello: "Hello! %{email}"
+  flash:
+    index: "Welcome!" 
+  article:
+    articles: "Articles"
+    title: "title"
+    description: "description"
+    show: "Show this article"
+  session:
+    logout: "logout"
