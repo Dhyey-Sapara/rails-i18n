@@ -74,8 +74,11 @@ group :test do
   gem "webdrivers"
 end
 
+# Use devise for user authentication
 gem "devise", "~> 4.9"
 
+# Use rails-i18n for using translations in your application
 gem "rails-i18n", "~> 7.0"
 
+# Use devise-i18n for using translations in for your devise
 gem "devise-i18n", "~> 1.11"
